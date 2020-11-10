@@ -8,7 +8,8 @@ Requirements:
 
 Getting started:
 - Download the repository
-- Unzip the KinectOsc_BlobDetectionDebugMulti.zip
+- Unzip the <b>KinectOsc_BlobDetectionDebugMulti.zip</b>
 - Connect the Kinect to a power socket, and with the USB adapter to your Mac.
-- Run the KinectOsc_BlobDetectionDebugMulti.app application
+- Run the <b>KinectOsc_BlobDetectionDebugMulti.app</b> application
+- Use the on screen hints to calibrate the application if needed 
 - Open and run the Processing sketch <b>blobReceiver</b>
