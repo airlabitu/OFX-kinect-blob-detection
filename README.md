@@ -4,7 +4,7 @@ Example of how to use the AIR LAB Kinect blob detection setup. It is a general p
 Requirements:
 - Operating system: Mac OSX
 - A Microsoft Kinect v1 sensor
-- Processing IDE (processing.org/download)
+- Processing IDE (https://processing.org/download/)
 
 Getting started:
 - Download the repository
