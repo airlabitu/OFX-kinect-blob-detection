@@ -24,7 +24,7 @@ void draw() {
     // this updates every time at least one blob was received via OSC message
     fill(200, 10, 100, 20);
     for (int i = 0; i < blobs.size(); i++){
-      ellipse(blobs.get(i).x, blobs.get(i).y, 30, 30);
+      ellipse(blobs.get(i).x*2, blobs.get(i).y*2, 30, 30);
     }
     fill(255);
     // *** ------------------------------------------------------------------ *** //
