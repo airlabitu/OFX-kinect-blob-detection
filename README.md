@@ -1,5 +1,5 @@
 # OFX kinect-blob-detection
-Example of how to use the AIR LAB Kinect blob detection setup. It is a general purpose Mac OSX app for blob tracking with Kinect, together with some examples of how to use the Kinect data in Processing.
+Example of how to use the AIR LAB Kinect blob detection setup. It is a general purpose Mac OSX app (made in OpenFrameworks) for blob tracking with Kinect, together with some examples of how to use the Kinect data in Processing.
 
 Requirements:
 - Operating system: Mac OSX
